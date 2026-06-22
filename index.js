@@ -24,6 +24,7 @@ if (fs.existsSync(CONFIG_PATH)) {
 const TICKET_FILE = path.join(__dirname, 'tickets.json');
 const GIVEAWAY_FILE = path.join(__dirname, 'giveaways.json');
 const giveawayTimeouts = new Map();
+let guild = null;
 
 config = {
   token: null,
