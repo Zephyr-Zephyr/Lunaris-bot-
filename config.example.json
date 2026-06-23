@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "ticketCategoryId": "TICKET_CATEGORY_CHANNEL_ID",
+  "supportRoleId": "SUPPORT_ROLE_ID",
+  "logsChannelId": "LOGS_CHANNEL_ID"
+}
